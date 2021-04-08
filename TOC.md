@@ -7,10 +7,13 @@
 
 + About TiDB
   + [TiDB Introduction](/overview.md)
-  + [What's New in TiDB 5.0](/releases/release-5.0.0-rc.md)
+  + [What's New in TiDB 5.0](/releases/release-5.0.0.md)
   + [Basic Features](/basic-features.md)
+  + [Experimental Features](/experimental-features.md)
   + Benchmarks
-    + [Interaction Test on Online Workloads and `ADD INDEX`](/benchmark/online-workloads-and-add-index-operations.md)
+    + [v5.0 Sysbench Performance Test Report](/benchmark/benchmark-sysbench-v5-vs-v4.md)
+    + [v5.0 TPC-C Performance Test Report](/benchmark/v5.0-performance-benchmarking-with-tpcc.md)
+    + [v5.0 MPP mode TPC-H 100GB Performance Test](/benchmark/v5.0-performance-benchmarking-with-tpch.md)
   + [MySQL Compatibility](/mysql-compatibility.md)
   + [TiDB Limitations](/tidb-limitations.md)
   + [TiDB Adopters](/adopters.md)
@@ -530,6 +533,7 @@
   + [All Releases](/releases/release-notes.md)
   + [TiDB Roadmap](/roadmap.md)
   + v5.0
+    + [5.0 GA](/releases/release-5.0.0.md)
     + [5.0.0-rc](/releases/release-5.0.0-rc.md)
   + v4.0
     + [4.0.12](/releases/release-4.0.12.md)
